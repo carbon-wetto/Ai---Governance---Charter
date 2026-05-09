@@ -50,4 +50,8 @@ A structured framework for safe, ethical, globally aligned AI systems.
 - Systems must promote collective good, not individual dominance.
 - Ethical design requires blending technology, psychology, sociology, and political insight.
 
+## Intent Statement
+
+This charter is offered freely as a contribution to global ethical dialogue. It is not a commercial product, political instrument, or proprietary framework. Its purpose is to support transparency, safety, and collective responsibility in the development of advanced AI systems.
+
 **This document is intentionally unlicensed. No ownership is claimed. It may be read, shared, or referenced freely for ethical and educational purposes.**
