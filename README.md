@@ -50,3 +50,4 @@ A structured framework for safe, ethical, globally aligned AI systems.
 - Systems must promote collective good, not individual dominance.
 - Ethical design requires blending technology, psychology, sociology, and political insight.
 
+**This document is intentionally unlicensed. No ownership is claimed. It may be read, shared, or referenced freely for ethical and educational purposes.**
