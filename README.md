@@ -1,4 +1,4 @@
-# AI Governance Charter
+# AI Governance Charter - Version 1.0
 
 A structured framework for safe, ethical, globally aligned AI systems.
 
